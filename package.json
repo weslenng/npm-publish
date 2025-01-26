@@ -1,0 +1,7 @@
+{
+  "name": "@weslenng/npm-publish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "weslenng",
+  "license": "MIT"
+}
